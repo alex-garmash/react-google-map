@@ -1,4 +1,4 @@
-# Menora React Google Maps
+# React Google Maps
 -------------------------------
 Menora Testing build with technologies:
   - ES6
@@ -10,8 +10,6 @@ Menora Testing build with technologies:
   - Show markers on map.
   - Show direction from your location to marker.
   - Show on marker click optional: Icon, Marker Icon, Title, Text, Address, Link.
-  - Open direction in Waze. 
-
 ---------------------------
 
 ## Installation
@@ -20,7 +18,7 @@ Install the package.
 
 ```sh
 $ cd project-name
-$ npm install menora.libs.menora.libs.react-google-maps
+$ npm install react-google-maps
 ```
 
 --------------------------------
@@ -52,10 +50,3 @@ language={'he'}// optional default by browser language
 
 ---------------------------
 
-## Authors
-
-# -= Navy Team =-
-
-## License
-
-This project is licensed under [Menora](https://www.menoramivt.co.il).
