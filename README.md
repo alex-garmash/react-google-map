@@ -18,7 +18,7 @@ Install the package.
 
 ```sh
 $ cd project-name
-$ npm install react-google-maps
+$ npm install https://github.com/alex-garmash/react-google-map.git
 ```
 
 --------------------------------
