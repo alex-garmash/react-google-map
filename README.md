@@ -11,6 +11,9 @@ Menora Testing build with technologies:
   - Show direction from your location to marker.
   - Show on marker click optional: Icon, Marker Icon, Title, Text, Address, Link.
 ---------------------------
+# Demo
+https://alex-garmash.github.io/
+
 
 ## Installation
 
